@@ -79,11 +79,11 @@ Refer to our [contribution guidelines](./CONTRIBUTING.md) and [Code of Conduct f
 
 ## Star History
 
-<a href="https://www.star-history.com/#liam-hq/liam&Date">
+<a href="https://star-history.dera.page/#liam-hq/liam&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=liam-hq/liam&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=liam-hq/liam&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=liam-hq/liam&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=liam-hq/liam&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=liam-hq/liam&type=Date" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=liam-hq/liam&type=Date" />
  </picture>
 </a>
 
